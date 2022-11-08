@@ -1,0 +1,29 @@
+{
+  "mensajes": [
+    {
+      "author": {
+        "firstName": "prueba1",
+        "lastName": "1",
+        "email": "prueba@hotmail.com",
+        "alias": "prueba",
+        "age": "23",
+        "avatar": "https://img.freepik.com/vector-premium/dibujos-animados-cara-nino-lindo_18591-41511.jpg"
+      },
+      "text": "Hola, esto es la primera prueba",
+      "date": "7/11/2022, 22:46:17"
+    },
+    {
+      "author": {
+        "firstName": "prueba2",
+        "lastName": "2",
+        "email": "prueba2@gmail.com",
+        "alias": "prueba2",
+        "age": "54",
+        "avatar": "https://img.freepik.com/vector-premium/dibujos-animados-cara-nino-lindo_18591-41509.jpg?w=2000"
+      },
+      "text": "chau",
+      "date": "7/11/2022, 22:47:32"
+    }
+  ],
+  "id": "mensajes"
+}
